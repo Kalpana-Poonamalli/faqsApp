@@ -1,0 +1,29 @@
+/* Write your code here. */
+.faqs-item-container {
+  border: 1px solid #d7dae6;
+  margin: 12px;
+  border-radius: 10px;
+  font-family: 'Roboto';
+  padding: 10px;
+  padding-left: 20px;
+  list-style-type: none;
+}
+.heading-plus-container {
+  display: flex;
+  justify-content: space-between;
+}
+.item-heading {
+  font-size: 18px;
+  color: #52606d;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.para {
+  color: #9aa5b1;
+}
+.hr {
+  border: 1px solid #e4e7eb;
+}
